@@ -6,5 +6,5 @@
 * If you load a savegame of the second level the timer will not start
 
 Last 2 issues are less important of course...
-I have also added one split for every bird photograph (users can disable every split except the first and the last one).
+I also added one split for every bird photograph (users can disable every split except the first and the last one).
 
