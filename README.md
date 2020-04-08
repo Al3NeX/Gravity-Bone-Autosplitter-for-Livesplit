@@ -1,3 +1,2 @@
-# Gravity-Bone-Autosplitter-for-Livesplit
-# sadasdasdasdas
-# sdaasdadsad
+# Gravity-Bone AutoSplitter 1.0
+###### ciaosono
