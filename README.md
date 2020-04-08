@@ -4,5 +4,5 @@
 * No load remover implemented
 * If you load a savegame of the first level the timer will restart
 * If you load a savegame of the second level the timer will not start
-##### Last 2 issues are less important ofc
+- Last 2 issues are less important ofc
 
